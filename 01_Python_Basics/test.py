@@ -1,4 +1,4 @@
-# GPA Calculator based on Quality Point Table (from provided image)
+# GPA Calculator based on Quality Point Table 
 # Developed for 2 and 3 Credit Hour subjects
 
 def get_quality_points(marks, credit):
